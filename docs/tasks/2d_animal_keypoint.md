@@ -146,7 +146,7 @@ mmpose
 
 ```
 
-The annotation files in 'annotation' folder contains 52 labeld animal species. There are total 10,015 labeled images with 13,028 instances in the AP-10K dataset. We randonly split them into train, val, and test set following the ratio of 7:1:2.
+The annotation files in 'annotation' folder contains 50 labeld animal species. There are total 10,015 labeled images with 13,028 instances in the AP-10K dataset. We randonly split them into train, val, and test set following the ratio of 7:1:2.
 
 ## Horse-10
 
