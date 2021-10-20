@@ -139,6 +139,9 @@ mmpose
         │   │-- ap10k-val-split1.json
         │   |-- ap10k-val-split2.json
         │   |-- ap10k-val-split3.json
+            |-- ap10k-test-split1.json
+            |-- ap10k-test-split2.json
+            |-- ap10k-test-split3.json
         │-- data
         │   │-- 000000000001.jpg
         │   │-- 000000000002.jpg
